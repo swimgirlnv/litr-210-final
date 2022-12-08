@@ -10,6 +10,9 @@ import Incline from './Locations/Incline';
 function App() {
   return (
     <div className="App">
+      <div className="navbar">
+        <h1>Locations Mythos</h1>
+      </div>
       <div className="Maps">
       <California></California>
       <Tahoe></Tahoe>
