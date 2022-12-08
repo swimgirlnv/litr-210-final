@@ -1,0 +1,17 @@
+.Incline {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  margin: 150px;
+}
+
+.tr,th {
+  text-align: center;
+  font-weight: normal;
+}
+
+.PrettyText {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
