@@ -1,0 +1,70 @@
+.Incline {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.tr,th {
+  text-align: center;
+  font-weight: normal;
+}
+
+.PrettyText {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.SanFrancisco {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.SouthLake {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.TahoeCity {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.Wilderness {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.Sacramento {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
