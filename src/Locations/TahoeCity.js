@@ -1,4 +1,5 @@
 import './Locations.css';
+import Sound from 'react-sound';
 
 function TahoeCity() {
   return (
@@ -106,6 +107,7 @@ function TahoeCity() {
       The audience applauds as the flowers leave through the wings, and Cyane extracts her arm again from Clara, 
       stepping up to invite Kore to dance. They assume their positions, arms gently reaching toward each other, and the world melts away.
       </p>
+      <Sound></Sound>
       <p>
       Ba ba-da-da dum. Ba ba-da-da dum.
       </p>

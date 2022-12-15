@@ -2,7 +2,7 @@
 function Tahoe() {
   return (
       <div className="Tahoe">
-        <img src="https://i.imgur.com/vBFpO08.png" alt="Workplace" usemap="#icons2" height="650px" width="auto"></img>
+        <img src="https://i.imgur.com/vBFpO08.png" alt="Workplace" usemap="#icons2" height="650px"></img>
         <map name="icons2">
         <area shape="rect" coords="313,448,339,474" alt="icon"
         href="#SouthLake" 

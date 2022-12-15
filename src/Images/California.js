@@ -4,7 +4,7 @@ function California() {
   return (
       <div className="California">
         <img className="image" src="https://i.imgur.com/mh3K30d.png" 
-        alt="Workplace" usemap="#icons1" height="650px" width="auto"></img>
+        alt="Workplace" usemap="#icons1" height="650px"></img>
         <map name="icons1">
           <area shape="rect" coords="78,262,106,291" alt="icon" href="#SanFrancisco"
             onClick={document.getElementById('SanFrancisco')} 

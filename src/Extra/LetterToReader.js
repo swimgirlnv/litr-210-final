@@ -27,7 +27,8 @@ function LetterToReader() {
       I also hoped to encapsulate the feeling of growing up with a best friend who you have a deep love for, not necessarily 
       in the relationship sense but in the ancient Greek "<a 
       href="https://www.yesmagazine.org/health-happiness/2013/12/28/the-ancient-greeks-6-words-for-love-and-why-knowing-them-can-change-your-life" target="_blank">Philia</a>" sense. 
-      And the feeling of when they inevitably move away. 
+      And the feeling of when they inevitably move away.
+      (Try listening to the beat of the <a href="https://www.youtube.com/watch?v=ZESulOPdnck">Grand Pas de Deux</a> between the Sugar Plum Fairy and the Prince and compare the heartbeat!).
       The magic and wonder and elasticity of time growing up, but how the world gets more rigid, smaller, less fantastic as 
       you grow older. Yet still, there are those small pockets of magic in adult life, like the spell cast by the moon rising over a snowstorm.
       </p>
