@@ -1,31 +1,24 @@
-import './Incline.css';
+import './Locations.css';
 import Ski from './Ski'
 
 function Incline() {
   return (
-    <div id="Incline" className="Incline">
+    <div className="Incline">
       <h3>Incline Village</h3>
       
-      <p>	Cyane is so entranced by the moon she barely notices her ski coach holding 
-        out the wooden torch. <i>Its face has faded, I wonder if he would still hear me if—</i></p>
-
-      <p>Cyane looks outside her window, out upon the inky black lake surrounded by dark 
-        mountains. It is a clear night, and she can see the twinkling lights of small towns 
-        clustered around the shore. The moon, full and fat, hangs heavily like a center 
-        spotlight over the center of the lake, illuminating the caps of the wind waves that 
-        splash against the frosted boulders rimming this portion of the waterside.</p>
+      <p>Cyane is so entranced by the moon she barely notices her ski coach holding out the wooden torch. 
+        <i>His face has faded, I wonder if he would still hear me if—</i></p>
 
       <p>“Cyane.”</p>
 
       <p>“Oh, sorry.”</p>
 
-      <p>Cyane grabs the torch holding it away from her face as it spits a few sparks onto 
-        her mittens. Ripping her gaze away from the moon, she looks down at the snowy hill 
-        before her, it's perfect. Untouched powder. The mountain has been closed the entire 
-        day in preparation for the Uller Festival, and now under fierce moonlight, the hill 
-        glitters in frosted silver. The lights of the lodge at the bottom have been replaced 
-        by more torches, and in the flickering shadows Cyane can just make out the giant pile 
-        of old skis, poles, boots, and boards that she will set alight.</p>
+      <p>Cyane grabs the torch holding it away from her face as it spits a few sparks onto her mittens. 
+        Ripping her gaze away from the moon, she looks down at the snowy hill before her, it's perfect. 
+        Untouched powder. The mountain has been closed the entire day in preparation for the Uller Festival, 
+        and now under fierce moonlight, the hill glitters in frosted silver. The lights of the lodge at the 
+        bottom have been replaced by more torches, and in the flickering shadows, Cyane can just make out 
+        the giant pile of old skis, poles, boots, and boards that she will set alight.</p>
 
       <p>“Do you think we are old enough to be allowed to do this?” 
         Kore guides her own skis to settle above Cyane. Her eyes sparkle like snow in moonlight.</p>
@@ -50,14 +43,13 @@ function Incline() {
         <Ski></Ski>
       </div>
 
-      <p>She and Kore, hand in hand, becoming the twinkling misty spray of snow preceding an 
-        avalanche. The flames sputter and flash, clinging to life upon the wooden torches as 
-        the two fling themselves into the steep powder with delight, dancing on their skis as 
-        if possessed by Uller himself.</p>
+      <p>SShe and Kore, hand in hand, becoming the twinkling misty spray of snow preceding an avalanche. 
+        The flames sputter and flash, clinging to life upon the wooden torches as the two fling themselves 
+        into the steep powder with delight, dancing through the night air as if possessed by Uller himself.</p>
 
-      <p>And then it is over, the hill conquered, and Cyane and Kore reach the frozen pile of 
-        skis. Cyane looks at the moon, is he watching us two now? She grasps Kore's hand tighter 
-        and throws her torch into the pile.</p>
+      <p>And then it is over, the hill conquered and their snowy bodies becoming once again human as they reach 
+        the frozen pile of skis. Cyane looks at the moon, he is smiling. She grasps Kore's hand tighter and throws 
+        her torch into the pile.</p>
       
       <p>“Please don’t ever leave me.”</p>
     </div>

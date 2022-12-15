@@ -1,4 +1,4 @@
-import './Incline.css'
+import './Locations.css';
 
 function Ski () {
   return (

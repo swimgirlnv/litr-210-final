@@ -19,12 +19,31 @@
   overflow: hidden;
   display: flex;
   flex-direction: row;
-  justify-content: center;
-  align-items: center;
   position: fixed;
   padding-left: 20px;
-  background-color: green;
+  background-color: lightgreen;
+  top: 0px;
+  left: 0px;
 }
+
+  
+.navbar-first {
+  margin-right: auto;
+  padding-left: 20px !important;
+}
+
+.navbar-last {
+  padding-right: 50px !important;
+}
+
+#navbar a {
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  }
+
 
 /* Maps are not yet centered
 */
@@ -35,9 +54,30 @@
   justify-content: center;
   margin: 20px;
   height: 100vh;
+  flex-wrap: wrap;
 }
 
 .Content {
   text-align: left;
 }
 
+.Extra {
+  text-align: left;
+}
+
+.left-content {
+  position: sticky;
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+}
+
+.Content {
+  display: flex;
+  flex-direction: row;
+}
+
+.footer {
+  color: black;
+  width: 100%;
+}
