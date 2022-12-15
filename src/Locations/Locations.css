@@ -6,6 +6,8 @@
   margin-right: 150px;
   margin-top: 50px;
   margin-bottom: 50px;
+  max-width: 900px;
+
 }
 
 .tr,th {
@@ -27,6 +29,7 @@
   margin-right: 150px;
   margin-top: 50px;
   margin-bottom: 50px;
+  max-width: 900px;
 }
 
 .SouthLake {
@@ -37,6 +40,7 @@
   margin-right: 150px;
   margin-top: 50px;
   margin-bottom: 50px;
+  max-width: 900px;
 }
 
 .TahoeCity {
@@ -47,6 +51,8 @@
   margin-right: 150px;
   margin-top: 50px;
   margin-bottom: 50px;
+  max-width: 900px;
+
 }
 
 .Wilderness {
@@ -57,6 +63,8 @@
   margin-right: 150px;
   margin-top: 50px;
   margin-bottom: 50px;
+  max-width: 900px;
+
 }
 
 .Sacramento {
@@ -67,4 +75,6 @@
   margin-right: 150px;
   margin-top: 50px;
   margin-bottom: 50px;
+  max-width: 900px;
+
 }
