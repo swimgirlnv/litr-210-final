@@ -18,10 +18,14 @@ function App() {
           <a class="navbar-first" href="#Top"><strong>Locations Mythos</strong></a>
           <a class="navbar-last" href="#About">About</a>
         </div>
-      <div className="Maps" id="Top">
+      <div className="Map-container" id="Top">
+        <div className="Maps">
         <California></California>
         <Tahoe></Tahoe>
+        </div>
+        <div>Scroll to read!</div>
       </div>
+      
       <div className='Content'>  
         <div className="right-content">
           <hr id="SanFrancisco"></hr>

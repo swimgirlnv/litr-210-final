@@ -53,8 +53,17 @@
   align-items: center;
   justify-content: center;
   margin: 20px;
-  height: 100vh;
+
   flex-wrap: wrap;
+}
+
+.Map-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  height: 100vh;
 }
 
 .Content {
