@@ -42,8 +42,8 @@ function App() {
           <Sacramento></Sacramento>
         </div>
       </div>
+      <hr id="About"></hr>
       <div className="Extra">
-        <hr id="About"></hr>
         <LetterToReader></LetterToReader>
         <LetterToMin></LetterToMin>
       </div>
