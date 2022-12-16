@@ -33,7 +33,7 @@ function LetterToReader() {
       you grow older. Yet still, there are those small pockets of magic in adult life, like the spell cast by the moon rising over a snowstorm.
       </p>
       <a>Again, thank you for reading, and encouraging you to find your own personal magic.</a>
-      <h3>-Becca Waterson</h3>
+      <h3>-BQW</h3>
     </div>
   );
 }
