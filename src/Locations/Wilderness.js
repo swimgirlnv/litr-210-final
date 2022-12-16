@@ -98,12 +98,10 @@ function Wilderness() {
       “What are you talking about?” Cyane asks cautiously, stepping toward Kore and grasping her hands.
       </p>
       <p>
-      “What are you talking about?” Cyane asks cautiously, stepping toward Kore and grasping her hands.
-      </p>
-      <p>
       “I’m moving. Leaving. I’ve known about it since the end of school but I was scared to tell you and hoping that 
       it was just a bad dream but I only have a day left in Tahoe and then I’m gone.”
-      <i>Please don’t ever leave me. I think I love you. </i>
+      </p>
+      <p>A tether connecting Cyane’s center and soul to the earth tugs sharply, bringing her abruptly to her knees. <i>Please don’t ever leave me. I think I love you. </i>
       A splintering in her abdomen, like someone was breaking a piece of ice or crushing a rock. She would be gone?
       </p>
       <p>

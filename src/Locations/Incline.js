@@ -6,8 +6,7 @@ function Incline() {
     <div className="Incline">
       <h3>Incline Village</h3>
       
-      <p>Cyane is so entranced by the moon she barely notices her ski coach holding out the wooden torch. 
-        <i>His face has faded, I wonder if he would still hear me if—</i></p>
+      <p>Cyane is so entranced by the moon she barely notices her ski coach holding out the wooden torch. <i>His face has faded, I wonder if he would still hear me if—</i></p>
 
       <p>“Cyane.”</p>
 
@@ -43,7 +42,7 @@ function Incline() {
         <Ski></Ski>
       </div>
 
-      <p>SShe and Kore, hand in hand, becoming the twinkling misty spray of snow preceding an avalanche. 
+      <p>She and Kore, hand in hand, becoming the twinkling misty spray of snow preceding an avalanche. 
         The flames sputter and flash, clinging to life upon the wooden torches as the two fling themselves 
         into the steep powder with delight, dancing through the night air as if possessed by Uller himself.</p>
 

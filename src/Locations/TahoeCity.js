@@ -7,9 +7,8 @@ function TahoeCity() {
       
       <p>The Tahoe City Ballet company did not have any boys. Ms. DeeDee and the other girls 
         frequently lamented over this, but Cyane was secretly relieved. Boys had cooties.</p>
-      <p>During Nutcracker season, Ms. DeeDee was especially upset. 
-        <i>We have no Nutcracker Prince, no Rat King, no Drosselmeyer, no Franz!</i> 
-        she would proclaim loudly to the retreating backs of baby ballerinas as their parents 
+      <p>During Nutcracker season, Ms. DeeDee was especially upset. <i>We have no Nutcracker Prince, no Rat 
+        King, no Drosselmeyer, no Franz!</i> she would proclaim loudly to the retreating backs of baby ballerinas as their parents 
         clustered eagerly by the door, hoping perhaps that one of the adults would have a spare 
         boy running around their household. They usually didn’t.
       </p>
